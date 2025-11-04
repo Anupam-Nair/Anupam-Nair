@@ -1,14 +1,9 @@
-# 👋 Hi, I'm Anupam Nair  
-
-🎓 Final-year **Mechanical Engineering student** passionate about integrating core engineering with modern automation and simulation.  
-
-🛠️ **Interests:** Mechanical design, automation systems, and smart manufacturing.  
-
-🚀 **Currently learning:** Advanced CAD, ANSYS, MATLAB, and ROS for real-world engineering applications.  
-
-🤝 **Open to collaborate on:** Autonomous systems, vehicle dynamics, and sustainable energy technologies.  
-
-📫 **Reach me at:** [anupamnair2003@gmail.com](mailto:anupamnair2003@gmail.com)  
+👋 Hi, I’m **Anupam Nair**, a final-year **Mechanical Engineering student** at NSS College of Engineering, Palakkad.  
+⚙️ Skilled in **CAD, ANSYS, MATLAB, ROS, and Python**, combining mechanical design with intelligent automation.  
+🚀 Experienced in **autonomous drones, SAF research, and IoT-based systems**.  
+🔬 Research focus on **aerospace propulsion, logistics optimization, and engineering management systems**.  
+📄 Published papers on **AI-driven fault detection, propulsion cooling, and operational management**.  
+📫 Reach me at [anupamnair2003@gmail.com](mailto:anupamnair2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anupamnairmech)
 
 ---
 ⭐ *Always building, learning, and optimizing engineering systems for the future.*  
